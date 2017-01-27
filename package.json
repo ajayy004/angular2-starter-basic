@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/ajayy004/angular2-starter-basic#readme",
   "scripts": {
-    "start": "webpack-dev-server --inline --progress --port 8081",
+    "start": "webpack-dev-server --inline --progress --port 3003",
     "test": "karma start",
     "build": "rimraf dist && webpack --config config/webpack.prod.js --progress --profile --bail"
   },
